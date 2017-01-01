@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\first lesson\bin\Debug\first lesson.exe.config
+M:\visual studio c#\first lesson\first lesson\bin\Debug\first lesson.exe
+M:\visual studio c#\first lesson\first lesson\bin\Debug\first lesson.pdb
+M:\visual studio c#\first lesson\first lesson\obj\Debug\first lesson.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\first lesson\obj\Debug\first lesson.exe
+M:\visual studio c#\first lesson\first lesson\obj\Debug\first lesson.pdb
