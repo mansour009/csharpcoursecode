@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\bin\Debug\Datatypes-Float point types.exe.config
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\bin\Debug\Datatypes-Float point types.exe
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\bin\Debug\Datatypes-Float point types.pdb
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\obj\Debug\Datatypes-Float point types.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\obj\Debug\Datatypes-Float point types.exe
+M:\visual studio c#\first lesson\Datatypes-Float point types\Datatypes-Float point types\obj\Debug\Datatypes-Float point types.pdb
