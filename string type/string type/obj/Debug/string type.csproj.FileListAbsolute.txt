@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\string type\string type\bin\Debug\string type.exe.config
+M:\visual studio c#\first lesson\string type\string type\bin\Debug\string type.exe
+M:\visual studio c#\first lesson\string type\string type\bin\Debug\string type.pdb
+M:\visual studio c#\first lesson\string type\string type\obj\Debug\string type.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\string type\string type\obj\Debug\string type.exe
+M:\visual studio c#\first lesson\string type\string type\obj\Debug\string type.pdb
