@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\bin\Debug\mathematical operations.exe.config
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\bin\Debug\mathematical operations.exe
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\bin\Debug\mathematical operations.pdb
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\obj\Debug\mathematical operations.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\obj\Debug\mathematical operations.exe
+M:\visual studio c#\first lesson\mathematical operations\mathematical operations\obj\Debug\mathematical operations.pdb
