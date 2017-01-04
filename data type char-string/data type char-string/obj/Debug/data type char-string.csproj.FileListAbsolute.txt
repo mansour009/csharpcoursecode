@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\data type char-string\data type char-string\bin\Debug\data type char-string.exe.config
+M:\visual studio c#\first lesson\data type char-string\data type char-string\bin\Debug\data type char-string.exe
+M:\visual studio c#\first lesson\data type char-string\data type char-string\bin\Debug\data type char-string.pdb
+M:\visual studio c#\first lesson\data type char-string\data type char-string\obj\Debug\data type char-string.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\data type char-string\data type char-string\obj\Debug\data type char-string.exe
+M:\visual studio c#\first lesson\data type char-string\data type char-string\obj\Debug\data type char-string.pdb
