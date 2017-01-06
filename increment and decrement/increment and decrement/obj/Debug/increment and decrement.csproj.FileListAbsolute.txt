@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\bin\Debug\increment and decrement.exe.config
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\bin\Debug\increment and decrement.exe
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\bin\Debug\increment and decrement.pdb
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\obj\Debug\increment and decrement.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\obj\Debug\increment and decrement.exe
+M:\visual studio c#\first lesson\increment and decrement\increment and decrement\obj\Debug\increment and decrement.pdb
