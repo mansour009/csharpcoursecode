@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\assignment operations\assignment operations\bin\Debug\assignment operations.exe.config
+M:\visual studio c#\first lesson\assignment operations\assignment operations\bin\Debug\assignment operations.exe
+M:\visual studio c#\first lesson\assignment operations\assignment operations\bin\Debug\assignment operations.pdb
+M:\visual studio c#\first lesson\assignment operations\assignment operations\obj\Debug\assignment operations.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\assignment operations\assignment operations\obj\Debug\assignment operations.exe
+M:\visual studio c#\first lesson\assignment operations\assignment operations\obj\Debug\assignment operations.pdb
