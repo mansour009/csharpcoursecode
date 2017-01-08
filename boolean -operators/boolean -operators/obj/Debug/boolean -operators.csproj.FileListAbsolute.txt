@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\bin\Debug\boolean -operators.exe.config
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\obj\Debug\boolean -operators.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\bin\Debug\boolean -operators.exe
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\bin\Debug\boolean -operators.pdb
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\obj\Debug\boolean -operators.exe
+M:\visual studio c#\first lesson\boolean -operators\boolean -operators\obj\Debug\boolean -operators.pdb
