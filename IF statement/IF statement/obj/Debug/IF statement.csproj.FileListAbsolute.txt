@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\IF statement\IF statement\bin\Debug\IF statement.exe.config
+M:\visual studio c#\first lesson\IF statement\IF statement\bin\Debug\IF statement.exe
+M:\visual studio c#\first lesson\IF statement\IF statement\bin\Debug\IF statement.pdb
+M:\visual studio c#\first lesson\IF statement\IF statement\obj\Debug\IF statement.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\IF statement\IF statement\obj\Debug\IF statement.exe
+M:\visual studio c#\first lesson\IF statement\IF statement\obj\Debug\IF statement.pdb
