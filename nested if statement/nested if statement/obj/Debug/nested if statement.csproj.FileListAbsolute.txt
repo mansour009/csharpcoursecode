@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\nested if statement\nested if statement\bin\Debug\nested if statement.exe.config
+M:\visual studio c#\first lesson\nested if statement\nested if statement\bin\Debug\nested if statement.exe
+M:\visual studio c#\first lesson\nested if statement\nested if statement\bin\Debug\nested if statement.pdb
+M:\visual studio c#\first lesson\nested if statement\nested if statement\obj\Debug\nested if statement.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\nested if statement\nested if statement\obj\Debug\nested if statement.exe
+M:\visual studio c#\first lesson\nested if statement\nested if statement\obj\Debug\nested if statement.pdb
