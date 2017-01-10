@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\bin\Debug\switch statment-ternary conditions.exe.config
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\obj\Debug\switch statment-ternary conditions.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\bin\Debug\switch statment-ternary conditions.exe
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\bin\Debug\switch statment-ternary conditions.pdb
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\obj\Debug\switch statment-ternary conditions.exe
+M:\visual studio c#\first lesson\switch statment-ternary conditions\switch statment-ternary conditions\obj\Debug\switch statment-ternary conditions.pdb
