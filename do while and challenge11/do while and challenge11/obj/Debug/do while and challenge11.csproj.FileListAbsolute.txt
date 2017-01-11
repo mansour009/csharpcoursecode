@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\bin\Debug\do while and challenge11.exe.config
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\obj\Debug\do while and challenge11.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\bin\Debug\do while and challenge11.exe
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\bin\Debug\do while and challenge11.pdb
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\obj\Debug\do while and challenge11.exe
+M:\visual studio c#\first lesson\do while and challenge11\do while and challenge11\obj\Debug\do while and challenge11.pdb
