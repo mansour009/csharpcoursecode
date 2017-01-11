@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\while loop\while loop\bin\Debug\while loop.exe.config
+M:\visual studio c#\first lesson\while loop\while loop\bin\Debug\while loop.exe
+M:\visual studio c#\first lesson\while loop\while loop\bin\Debug\while loop.pdb
+M:\visual studio c#\first lesson\while loop\while loop\obj\Debug\while loop.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\while loop\while loop\obj\Debug\while loop.exe
+M:\visual studio c#\first lesson\while loop\while loop\obj\Debug\while loop.pdb
