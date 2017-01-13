@@ -1,6 +1,0 @@
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\Break Loop _ Continue Command and challenge 16.exe.config
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\Break Loop _ Continue Command and challenge 16.exe
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\bin\Debug\Break Loop _ Continue Command and challenge 16.pdb
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\Break Loop _ Continue Command and challenge 16.csprojResolveAssemblyReference.cache
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\Break Loop _ Continue Command and challenge 16.exe
-M:\visual studio c#\first lesson\Break Loop _ Continue Command and challenge 16\Break Loop _ Continue Command and challenge 16\obj\Debug\Break Loop _ Continue Command and challenge 16.pdb
