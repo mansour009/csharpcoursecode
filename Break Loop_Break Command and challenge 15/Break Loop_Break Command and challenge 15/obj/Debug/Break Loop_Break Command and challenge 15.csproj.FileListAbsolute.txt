@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\Break Loop_Break Command and challenge 15.exe.config
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\Break Loop_Break Command and challenge 15.exe
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\bin\Debug\Break Loop_Break Command and challenge 15.pdb
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\Break Loop_Break Command and challenge 15.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\Break Loop_Break Command and challenge 15.exe
+M:\visual studio c#\first lesson\Break Loop_Break Command and challenge 15\Break Loop_Break Command and challenge 15\obj\Debug\Break Loop_Break Command and challenge 15.pdb
