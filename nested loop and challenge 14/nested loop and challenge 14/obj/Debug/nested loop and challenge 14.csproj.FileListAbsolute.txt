@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\bin\Debug\nested loop and challenge 14.exe.config
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\bin\Debug\nested loop and challenge 14.exe
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\bin\Debug\nested loop and challenge 14.pdb
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\obj\Debug\nested loop and challenge 14.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\obj\Debug\nested loop and challenge 14.exe
+M:\visual studio c#\first lesson\nested loop and challenge 14\nested loop and challenge 14\obj\Debug\nested loop and challenge 14.pdb
