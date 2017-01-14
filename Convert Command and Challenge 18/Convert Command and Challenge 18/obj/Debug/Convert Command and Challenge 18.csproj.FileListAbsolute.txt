@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\Convert Command and Challenge 18.exe.config
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\Convert Command and Challenge 18.exe
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\bin\Debug\Convert Command and Challenge 18.pdb
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\Convert Command and Challenge 18.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\Convert Command and Challenge 18.exe
+M:\visual studio c#\first lesson\Convert Command and Challenge 18\Convert Command and Challenge 18\obj\Debug\Convert Command and Challenge 18.pdb
