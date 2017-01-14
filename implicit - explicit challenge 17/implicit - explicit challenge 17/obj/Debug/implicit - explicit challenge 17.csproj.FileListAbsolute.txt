@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\bin\Debug\implicit - explicit challenge 17.exe.config
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\bin\Debug\implicit - explicit challenge 17.exe
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\bin\Debug\implicit - explicit challenge 17.pdb
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\obj\Debug\implicit - explicit challenge 17.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\obj\Debug\implicit - explicit challenge 17.exe
+M:\visual studio c#\first lesson\implicit - explicit challenge 17\implicit - explicit challenge 17\obj\Debug\implicit - explicit challenge 17.pdb
