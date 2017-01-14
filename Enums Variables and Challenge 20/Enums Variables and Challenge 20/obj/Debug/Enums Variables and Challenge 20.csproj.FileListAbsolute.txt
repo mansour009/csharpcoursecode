@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\bin\Debug\Enums Variables and Challenge 20.exe.config
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\bin\Debug\Enums Variables and Challenge 20.exe
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\bin\Debug\Enums Variables and Challenge 20.pdb
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\obj\Debug\Enums Variables and Challenge 20.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\obj\Debug\Enums Variables and Challenge 20.exe
+M:\visual studio c#\first lesson\Enums Variables and Challenge 20\Enums Variables and Challenge 20\obj\Debug\Enums Variables and Challenge 20.pdb
