@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.exe.config
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.exe
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.pdb
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.exe
+M:\visual studio c#\first lesson\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.pdb
