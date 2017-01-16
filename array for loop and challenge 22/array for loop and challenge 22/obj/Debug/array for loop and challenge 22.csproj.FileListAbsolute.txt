@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\bin\Debug\array for loop and challenge 22.exe.config
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\bin\Debug\array for loop and challenge 22.exe
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\bin\Debug\array for loop and challenge 22.pdb
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\obj\Debug\array for loop and challenge 22.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\obj\Debug\array for loop and challenge 22.exe
+M:\visual studio c#\first lesson\array for loop and challenge 22\array for loop and challenge 22\obj\Debug\array for loop and challenge 22.pdb
