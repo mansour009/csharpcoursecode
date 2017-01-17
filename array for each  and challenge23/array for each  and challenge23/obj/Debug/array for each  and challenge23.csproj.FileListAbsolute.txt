@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\bin\Debug\array for each  and challenge23.exe.config
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\bin\Debug\array for each  and challenge23.exe
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\bin\Debug\array for each  and challenge23.pdb
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\obj\Debug\array for each  and challenge23.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\obj\Debug\array for each  and challenge23.exe
+M:\visual studio c#\first lesson\array for each  and challenge23\array for each  and challenge23\obj\Debug\array for each  and challenge23.pdb
