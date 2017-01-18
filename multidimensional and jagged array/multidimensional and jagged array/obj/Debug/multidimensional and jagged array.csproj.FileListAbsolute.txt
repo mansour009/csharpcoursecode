@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\bin\Debug\multidimensional and jagged array.exe.config
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\bin\Debug\multidimensional and jagged array.exe
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\bin\Debug\multidimensional and jagged array.pdb
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\obj\Debug\multidimensional and jagged array.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\obj\Debug\multidimensional and jagged array.exe
+M:\visual studio c#\first lesson\multidimensional and jagged array\multidimensional and jagged array\obj\Debug\multidimensional and jagged array.pdb
