@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\bin\Debug\functions and challenge 26.exe.config
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\bin\Debug\functions and challenge 26.exe
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\bin\Debug\functions and challenge 26.pdb
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\obj\Debug\functions and challenge 26.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\obj\Debug\functions and challenge 26.exe
+M:\visual studio c#\first lesson\functions and challenge 26\functions and challenge 26\obj\Debug\functions and challenge 26.pdb
