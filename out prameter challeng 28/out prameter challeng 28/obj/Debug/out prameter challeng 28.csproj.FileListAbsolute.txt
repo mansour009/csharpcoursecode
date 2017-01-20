@@ -1,0 +1,6 @@
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\bin\Debug\out prameter challeng 28.exe.config
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\bin\Debug\out prameter challeng 28.exe
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\bin\Debug\out prameter challeng 28.pdb
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\obj\Debug\out prameter challeng 28.csprojResolveAssemblyReference.cache
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\obj\Debug\out prameter challeng 28.exe
+M:\visual studio c#\first lesson\out prameter challeng 28\out prameter challeng 28\obj\Debug\out prameter challeng 28.pdb
